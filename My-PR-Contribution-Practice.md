@@ -95,3 +95,6 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+
+- [Sohom Pal](https://github.com/Sohomx)
+  <p>Bio: Full stack Developer & building applications with python. </p>
